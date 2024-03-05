@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="avatar" align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="150"/>
 </div>
 <div id="badges-row1" align="center">
@@ -18,8 +18,8 @@
 </div>
 
 ### Hi there👋, I'm tunan
+---
 
-Hello, visitors! I'm tunan, granduted from HoHai University. Now I am a backend developer. 
+☘️Hello, visitors! I'm tunan, granduted from HoHai University majored in Computer Science. Now I am a back-end developer. 
 
-I hope I can meet more developers here.
-
+I hope I will meet more developers here.
