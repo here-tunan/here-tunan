@@ -1,11 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<div id="badges-row1" align="center">
   <img src="https://img.shields.io/github/followers/here-tunan?logo=github"/>
+</div>
+
+<div id="badges-row2" align="center">
   <img src="https://img.shields.io/badge/Java-gray"/>
-  <img src="https://img.shields.io/badge/Vue-green"/>
-  <img src="https://img.shields.io/badge/Golang-yellow"/>
+  <img src="https://img.shields.io/badge/Vue-green?logo=vue.js"/>
+  <img src="https://img.shields.io/badge/Golang-yellow?logo=go"/>
+  <img src="https://img.shields.io/badge/MongoDB-yellow?logo=mongodb"/>
 </div>
 
 ### Hi there👋, I'm tunan
