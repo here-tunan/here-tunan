@@ -22,4 +22,6 @@
 
 ☘️Hello, visitors! I'm tunan, granduted from HoHai University majored in Computer Science. Now I am a back-end developer. 
 
-I hope I will meet more developers here.
+I hope to meet more developers here.
+
+I have been studying rust recently! Good luck to me!🏋️‍♀️
