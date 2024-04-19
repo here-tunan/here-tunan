@@ -7,17 +7,24 @@
 
 <div id="badges-row2" align="center">
   <img src="https://img.shields.io/badge/Java-gray"/>
-  <img src="https://img.shields.io/badge/Vue-green?logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Golang-yellow?logo=go"/>
-  <img src="https://img.shields.io/badge/MongoDB-olive green?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Golang-8bbbec?logo=go"/>
+  <img src="https://img.shields.io/badge/python-yellow?logo=python"/>
+  <img src="https://img.shields.io/badge/rust-red?logo=rust"/>
 </div>
 
 <div id="badges-row2" align="center">
-  <img src="https://img.shields.io/badge/python-black?logo=python"/>
   <img src="https://img.shields.io/badge/mysql-pink?logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-olive green?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/redis-red?logo=redis"/>
+  <img src="https://img.shields.io/badge/ES-blue?logo=elastic"/>
 </div>
 
-### Hi there👋, I'm tunan
+<div id="badges-row3" align="center">
+  <img src="https://img.shields.io/badge/React-blue?logo=react"/>
+  <img src="https://img.shields.io/badge/Vue-green?logo=vue.js"/>  
+</div>
+
+  ### Hi there👋, I'm tunan
 ---
 
 ☘️Hello, visitors! I'm tunan, graduated from HoHai University majored in Computer Science. Now I am a back-end developer. 
