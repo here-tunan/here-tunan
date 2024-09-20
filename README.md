@@ -39,7 +39,7 @@ I have been studying react&next.js recently! Good luck to me!🏋️‍♀️
 
 <p align="center">
 <a href="https://github.com/here-tunan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=here-tunan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=here-tunan&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=here-tunan&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=here-tunan&layout=compact&theme=vue-dark" />
 </a>
 </p>
