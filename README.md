@@ -27,13 +27,13 @@
   ### Hi there👋, I'm tunan
 ---
 
-☘️Hello, visitors! I'm tunan, graduated from HoHai University majored in Computer Science. Now I am a back-end developer. 
+☘️Hello, visitors! I'm tunan, graduated from HoHai University majored in Computer Science.
+
+Now I am a back-end developer (Java developer exactly).
 
 I hope to meet more developers here.
 
-I have been studying react&next.js recently! Good luck to me!🏋️‍♀️
-
-
+Keep grinding! 🏋️‍♀️
 
 
 
