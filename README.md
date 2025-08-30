@@ -35,7 +35,7 @@ I hope to meet more developers here.
 
 Keep grinding! 🏋️‍♀️
 
-Learn more form [tunan's blog](https://www.tunan.fun/)
+Learn more from [tunan's blog](https://www.tunan.fun/)
 
 
 
